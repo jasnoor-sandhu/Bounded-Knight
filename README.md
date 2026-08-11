@@ -1,7 +1,7 @@
 # KnightsOnBoard
 
 SDL3 framebuffer demo that draws a growing pattern on a large canvas.
-[Numberphile: Youtube Link](https://www.youtube.com/watch?v=UiX4CFIiegM)
+[Numberphile: Red & Black Knights](https://www.youtube.com/watch?v=UiX4CFIiegM)
 
 ## Build it yourself
 1. Install SDL3 and `pkg-config`.
